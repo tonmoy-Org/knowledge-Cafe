@@ -1,0 +1,29 @@
+.question-container{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.title-qna {
+    text-align: center;
+    font-size: 30px;
+}
+.ans-container{
+    margin-bottom: 30px;
+    background: rgba(17, 17, 17, 0.05);
+    border-radius: 8px;
+    padding: 20px;
+}
+.ans-container div {
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding: 10px;
+    font-weight: 600;
+}
+.ans-container div:hover{
+    background: rgba(96, 71, 236, 0.1);
+}
+@media (max-width: 576px){
+    .question-container{
+        margin: 8px;
+        padding-left: 10px;
+    }
+}
