@@ -1,3 +1,4 @@
 ### knowledge-Cafe
 [click here](https://knowledge-cafe-tonmoy-org.netlify.app/)
-![images](https://www.figma.com/file/v6WyWu2An4PnHyv1cIh7MH/knowledge-cafe?node-id=0%3A1&t=DMVUMq44sY8F2vOo-1)
+![knowledge-cafe](https://user-images.githubusercontent.com/112298385/229373977-ec1a9ce2-7d2d-4a25-9170-28d02a482f44.png)
+
